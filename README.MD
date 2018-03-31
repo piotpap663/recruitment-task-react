@@ -55,7 +55,7 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 ## **Install**
 ```sh
     $ git clone https://github.com/piotpap663/recruitment-task-react.git
-    $ cd cookieclick-master
+    $ cd recruitment-task-react-master
 
     $ npm install
     #or
